@@ -4,3 +4,6 @@ This is a Tic-Tac-Toe game for two players, developed purely in Python. It inclu
 
 Version 2 : 
 We are bringing the feature for playing with computer.
+
+Version 3 : 
+Bringing in UI using Tkinter.
