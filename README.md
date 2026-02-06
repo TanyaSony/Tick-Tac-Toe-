@@ -36,6 +36,3 @@ More interactive and user-friendly experience
 🛠️ Technologies Used
 Python
 Tkinter (for GUI in Version 3)
-Python
-
-Tkinter (for GUI in Version 3)
